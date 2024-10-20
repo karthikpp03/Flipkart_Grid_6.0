@@ -1,10 +1,5 @@
 # **Smart Vision Technology for Quality Control**  
 *A Robotic Conveyor System for Automated Product Sorting and Inspection*
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-![Contributors](https://img.shields.io/badge/contributors-5-brightgreen.svg)  
-![Python](https://img.shields.io/badge/Language-Python-yellow.svg)
-
 ---
 ## **Screenshots**
 
