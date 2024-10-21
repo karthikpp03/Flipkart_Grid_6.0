@@ -94,36 +94,18 @@ Welcome to the **Smart Vision Technology for Quality Control** project! This inn
   
 ---
 
-## **Installation & Setup Instructions**
+**Connect the hardware components** (Microcontroller, Cameras, Sensors) and test the system.
+![image](https://github.com/user-attachments/assets/096517ad-d1b8-4b5c-a7e4-af342fb27d4e)
+![image](https://github.com/user-attachments/assets/9da92c21-19e1-456f-971e-5fe6265b701c)
+![image](https://github.com/user-attachments/assets/28e78b0c-66eb-47d6-b1ef-8224e0e47948)
+![image](https://github.com/user-attachments/assets/5d86b9d6-9d7c-4e96-9ce1-e2c4adc5c4db)
+![image](https://github.com/user-attachments/assets/62260efe-fefd-47a8-890d-cfdbad7337c5)
+![image](https://github.com/user-attachments/assets/205473f5-0dca-48d7-8e2d-0edf1b011c45)
+![image](https://github.com/user-attachments/assets/fe1e209f-1cd8-4fb1-8efd-fab71c91d2f2)
+![image](https://github.com/user-attachments/assets/7e5a6da7-fdb3-4942-bc35-c77383fabcac)
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YourUsername/smart-vision-quality-control.git
-   cd smart-vision-quality-control
-   ```
 
-2. **Install required dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. **Configure MongoDB:**
-   Set up MongoDB and update the connection string in the configuration file:
-   ```bash
-   MONGODB_URI=mongodb://localhost:27017/smartvision
-   ```
-
-4. **Run the YOLO detection system:**
-   ```bash
-   python yolo_detect.py
-   ```
-
-5. **Launch the web interface:**
-   ```bash
-   python app.py
-   ```
-
-6. **Connect the hardware components** (Microcontroller, Cameras, Sensors) and test the system.
 
 ---
 
