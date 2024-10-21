@@ -3,11 +3,59 @@
 ---
 ## **Screenshots**
 
-- **Real-Time Object Detection**
-![Object Detection](https://example.com/object-detection.png)
+- **Conveyor-Images**
+![IMG_20241020_203810](https://github.com/user-attachments/assets/0faa4da6-3737-482b-8660-176a97d70b96)
 
-- **Project Explanation**
-![Web Interface](https://youtu.be/oNc2Ep8MHuY?si=BACJ-F_PqxqwT8Cq)
+- **List of Products**
+![image](https://github.com/user-attachments/assets/4b4f8f38-131c-495f-ad38-9d9ab21b116c)
+
+- **Products -**
+Acnestar Soap,
+Dove Pink Bar Beauty Bathing Bar,
+GRB Instant Payasam (Kheer) Mix,
+Manna Health Mix,
+Lipton,
+GRB Pure Cow Ghee,
+ Harima Home Desserts Mango Flavour Ice Cream Mix Powder,
+Himalaya Baby Lotion,
+Aachi Pani Puri Kit,
+Bigen Men's Speedy Color,
+Laxolite,
+Acnemoist Cream,
+Ponds Bright Beauty Serum Cream,
+Surf Excel,
+Ariel,
+Vim Dishwash Gel,
+Pantene,
+Britannia,
+Parachute,
+AXE,
+Biotique,
+Himalaya,
+Softouch.
+
+- **Fruits-**
+Tomato,
+Apple,
+Mosambi.
+
+- **Real-Time Object Detection**
+
+![image](https://github.com/user-attachments/assets/263eb10b-2bb2-4442-99a1-91e3c213ebf1)
+
+![image](https://github.com/user-attachments/assets/22db4ccf-0606-45ca-9dda-ef21563a6be0)
+
+
+
+---
+
+- **Front-End**
+![image](https://github.com/user-attachments/assets/a85566db-8a7d-46b7-bd5e-f8b7781ce8fb)
+
+
+
+
+- **Project Explanation (https://youtu.be/oNc2Ep8MHuY)**
 
 ---
 ## **Project Overview**
@@ -89,9 +137,8 @@ Welcome to the **Smart Vision Technology for Quality Control** project! This inn
 6. **User Interface**: The web application allows users to view product details, including defective products and expired items.
 
 ---
-
-
-
+## **Team**
+**![image](https://github.com/user-attachments/assets/d7e0ec1d-4c8b-44d5-87fd-94b8cc0564f8)**
 ## **Team Members**
 - **Team Leader**: Karthik PP (IT) - Project architecture, microcontroller programming, and object detection.
 - **Team Member 1**: Sridhar RA (IT) - Data processing and MongoDB integration.
